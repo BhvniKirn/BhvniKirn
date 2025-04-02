@@ -1,12 +1,12 @@
 ### Hi there 👋, I'm Bhavani Kiran Kukunoor  
-#### 🚀 AI/ML Enthusiast | 🔐 Cybersecurity | 🤖 Reinforcement Learning | 🌍 Open Source Contributor  
+#### 🚀 AI/ML Enthusiast | 🔐 Data Scientist | 🤖 Reinforcement Learning | 🌍 Web developer
 
 ![Profile Banner](https://github.com/your-username/your-repo/raw/main/banner.gif)
 
 🔭 I’m currently working on **Deep Learning Security & Reinforcement Learning**  
 🌱 I’m learning **Graph Neural Networks (GNNs), RL for Robotics, and Cybersecurity**  
 💬 Ask me about **AI, ML, Cybersecurity, and Reinforcement Learning**  
-📫 Reach me at **bhavanik@buffalo.edu**  
+📫 Reach me at **bunnyontech@gmail.com**  
 📌 [LinkedIn](https://www.linkedin.com/in/bhavani-kiran-kukunoor-bb8829210/)  
 
 ---
