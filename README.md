@@ -40,7 +40,7 @@
 - Developed a **Django backend & Vue.js frontend**, deployed on Heroku.
 - Implemented an **NLP chatbot** for personalized wellness tips.
 
-## 📈 GitHub Stats & NeetCode Streaks
+## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhvniKirn&layout=compact&theme=radical)
 
 
