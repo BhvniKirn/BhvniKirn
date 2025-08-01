@@ -44,8 +44,6 @@
 ![Bhavani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhvniKirn&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhvniKirn&layout=compact&theme=radical)
 
-**NeetCode Streaks** *(For Leetcode Enthusiasts)*:
-![NeetCode Streak](https://leetcard.jacoblin.cool/BhvniKirn?theme=dark&ext=contest)
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavani-kiran-kukunoor-bb8829210/)
