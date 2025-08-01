@@ -41,7 +41,6 @@
 - Implemented an **NLP chatbot** for personalized wellness tips.
 
 ## 📈 GitHub Stats & NeetCode Streaks
-![Bhavani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhvniKirn&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhvniKirn&layout=compact&theme=radical)
 
 
