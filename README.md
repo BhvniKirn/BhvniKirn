@@ -3,6 +3,8 @@
 **Software Engineer | Full-Stack Developer**  
 Buffalo, NY | 🏫 Master's in Computer Science @ University at Buffalo  
 
+---
+
 ## About Me
 - Passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Development**.
 - Experienced in **building scalable applications, optimizing transactions, and deploying ML models**.
