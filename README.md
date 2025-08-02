@@ -30,12 +30,12 @@ Buffalo, NY | 🏫 Master's in Computer Science @ University at Buffalo
 - Automated CI/CD workflows with **Jenkins & Docker**, reducing deployment time by **40%**.
 
 ## Notable Projects
-### ** Carbon Tracker** *(Full-Stack Data Science Project)*
+### **Carbon Tracker** *(Full-Stack Data Science Project)*
 - Predicted household carbon footprints with **90% accuracy** (Random Forest Model).
 - Built a **Flask backend & React frontend**, deployed on AWS with Docker.
 - Added a “green points” system, increasing engagement by **20%**.
 
-### ** Wellness Predictor** *(Full-Stack Data Science Project)*
+### **Wellness Predictor** *(Full-Stack Data Science Project)*
 - Predicted wellness risks from wearable data using **Gradient Boosting (AUC = 0.87)**.
 - Developed a **Django backend & Vue.js frontend**, deployed on Heroku.
 - Implemented an **NLP chatbot** for personalized wellness tips.
@@ -50,6 +50,6 @@ Buffalo, NY | 🏫 Master's in Computer Science @ University at Buffalo
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bhavanikirankukunoor@gmail.com)
 
 ---
-Always open to **collaborations & new opportunities**! Let's build something amazing together. 🚀
+Always open to **collaborations & new opportunities**! Let's build something amazing together.
 
 
