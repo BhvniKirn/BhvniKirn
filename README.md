@@ -1,4 +1,4 @@
-# Hi there, I'm Bhavani Kiran Kukunoor! 
+# Hi there, I'm Kiran! 
 
 **Software Engineer | Full-Stack Developer**  
 Buffalo, NY | 🏫 Master's in Computer Science @ University at Buffalo  
