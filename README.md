@@ -1,6 +1,6 @@
 # Hi there, I'm Kiran! 
 
-**Software Engineer | Full-Stack Developer**  
+**Software Engineer**  
 Buffalo, NY | 🏫 Master's in Computer Science @ University at Buffalo  
 
 ---
