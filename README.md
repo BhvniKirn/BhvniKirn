@@ -6,7 +6,7 @@ Buffalo, NY | 🏫 Master's in Computer Science @ University at Buffalo
 ---
 
 ## About Me
-- Passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Development**.
+- Passionate about **Data Science, Artificial Intelligence, Machine Learning, and Full-Stack Development**.
 - Experienced in **building scalable applications, optimizing transactions, and deploying ML models**.
 - Love working on **Computer Vision, NLP, and Data Science, Full Stack projects**.
 - Ex-Software Engineer at **Prodapt Solutions**, worked on **MPESA (mobile money transactions)**.
