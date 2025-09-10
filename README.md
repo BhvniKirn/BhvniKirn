@@ -1,5 +1,3 @@
-![Snake animation](https://github.com/BhvniKirn/BhvniKirn/blob/output/github-contribution-grid-snake.svg)
-
 # Hi there, I'm Kiran! 
 
 **Software Engineer**  
